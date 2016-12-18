@@ -1,30 +1,15 @@
-<<<<<<< HEAD
-# CakePHP Application Skeleton
+1] <H1>CAKEPHP 3.X APPLICATION TO DEMOSTRATE 'CITY,STATE,COUNTRY' NAMES AS AUTO COMPLETE WITHOUT DATABASE </H1>
+    FEATURES:
+    1) in boot strap.
+    2) google place api included to search city (city,state,country) without database(country,state,city) using auto complete
+    3) similar to www.olx.com
+    4) this is open source project anybody can contribute in this project in future it will take a shape.
 
-[![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
-[![License](https://img.shields.io/packagist/l/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
-
-A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.x.
-
-The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
-
-## Installation
-
-1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
-
-If Composer is installed globally, run
-```bash
-composer create-project --prefer-dist cakephp/app [app_name]
-```
-
-You should now be able to visit the path to where you installed the app and see
-the setup traffic lights.
-
-## Configuration
-
-Read and edit `config/app.php` and setup the 'Datasources' and any other
-configuration relevant for your application.
-=======
-# sellmebazar_cakephp
->>>>>>> d9109fbc5def8691280202d1bccc1e4c675f4636
+    REFRENCES FOR RETRIVING 'CITY,STATE,COUNTRY' NAMES AS AUTO COMPLETE
+    1) PLACE RETRIVING.
+        https://developers.google.com/places/web-service/autocomplete
+    2) AFTER RETRIVING PLASES SAVE PLCE_ID FOR FURTHER USE.
+        https://developers.google.com/places/web-service/place-id
+    3) AUTO COMPLETE SCRIPT.
+        http://phppot.com/demo/jquery-ajax-autocomplete-country-example/
+    4) STACK OVERFLOW    
